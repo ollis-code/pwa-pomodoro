@@ -10,7 +10,7 @@ var filesToCache = [
   '/images/hello-icon-192.png',
   '/images/hello-icon-256.png',
   '/images/hello-icon-512.png',
-  '/favicon.ico'
+  '/favicon.ico',
 ];
 
 /* Start the service worker and cache all of the app's content */
