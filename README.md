@@ -23,3 +23,12 @@ Hello PWA has been tested in the following browsers:
 * Firefox 60
 * Safari 11
 * Edge 42
+
+
+## Some Notes
+
+https://gist.github.com/kosamari/7c5d1e8449b2fbc97d372675f16b566e#file-_serviceworker_for_github_pages-md
+
+
+## My Demo
+https://ollis-code.github.io/pwa-pomodoro/
